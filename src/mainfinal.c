@@ -10,7 +10,7 @@
 
 int main (void)
 {
-
+	int count;
 	  ADC_Init();
 	  Systick_Init();
 	  UART_Init();
